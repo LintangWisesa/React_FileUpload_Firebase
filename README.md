@@ -2,7 +2,7 @@
 
 # __React.js File Uploader Using Firebase Storage__
 
-[![Video](https://img.youtube.com/vi/fITbRirO8Ug/0.jpg)](https://www.youtube.com/watch?v=fITbRirO8Ug)
+[![Video](https://img.youtube.com/vi/b9BK4SFT69I/0.jpg)](https://www.youtube.com/watch?v=b9BK4SFT69I)
 
 __[Firebase](https://firebase.google.com/)__ is a platform developed by Google for creating mobile and web applications. It was originally an independent company founded in 2011. In 2014, Google acquired the platform and it is now their flagship offering for app development. In this video we'll learn how to create upload image feature on React.js application using Firebase Storage.
 
@@ -15,9 +15,9 @@ __⭐ How to use this repo:__
 1. Clone this repo:
 
     ```bash
-    $ git clone https://github.com/LintangWisesa/SocialLogin_React_Firebase.git
+    $ git clone https://github.com/LintangWisesa/React_FileUpload_Firebase.git
 
-    $ cd SocialLogin_React_Firebase
+    $ cd React_FileUpload_Firebase
     ```
 
 2. Create Firebase project then go to Firebase Authentication, add the Firebase SDK on React app. Copy your credential and insert it on React ```config/fire.js```
